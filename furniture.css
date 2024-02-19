@@ -1,0 +1,29 @@
+.house {
+    height: 700px;
+}
+
+#fig {
+    color: red;
+    font-size: 40px;
+}
+
+#logo {
+    height: 50px;
+    width: 50px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.chair {
+    height: 700px;
+}
+
+.table {
+    height: 700px;
+}
+
+body {
+    background-color: aliceblue;
+}
